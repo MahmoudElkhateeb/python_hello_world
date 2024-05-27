@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: {{ YOUR_DOCKERHUB_REPOSITORY }}/python-helloworld:latest
+          tags: C:\Users\a5147738\nd064_course_1\github_repo:latest
